@@ -6,7 +6,8 @@ import SearchBar from './components/search_bar';
 import VideoList from './components/video_list';
 import VideoDetail from './components/video_detail';
 import _ from 'lodash';
-const API_KEY = 'AIzaSyBpP0vL0W0jJqRHPpFH336M0YXw8mJxezQ';
+import API_KEY from './config.js';
+
 
 
 
